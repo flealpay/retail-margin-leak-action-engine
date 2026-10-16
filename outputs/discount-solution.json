@@ -1,0 +1,51 @@
+{
+  "data_type": "synthetic",
+  "policy": "Reduce discount depth by up to 6 percentage points on discount-flagged SKU-region-channel offers; cap each price at its original list price.",
+  "reduction_pp": 6,
+  "flagged_cells": 245,
+  "flagged_skus": 125,
+  "affected_sales_lines": 9079,
+  "affected_h2_gp_eur": 425172.23,
+  "h1_gp_eur": 3912985.569999998,
+  "h2_gp_eur": 3806896.2100000004,
+  "profit_gap_eur": 106089.35999999754,
+  "modeled_gain_eur": 112241.3,
+  "modeled_h2_gp_eur": 3919137.5100000002,
+  "gap_coverage_pct": 105.79882845933146,
+  "vs_h1_gp_eur": 6151.940000002272,
+  "max_affected_unit_decline_to_preserve_h1_gp_pct": 1.1447311347003977,
+  "sensitivity": [
+    {
+      "affected_units_decline_pct": 0,
+      "company_gp_eur": 3919137.5100000007,
+      "vs_h1_gp_eur": 6151.940000002738
+    },
+    {
+      "affected_units_decline_pct": 1.0,
+      "company_gp_eur": 3913763.3747000005,
+      "vs_h1_gp_eur": 777.8047000025399
+    },
+    {
+      "affected_units_decline_pct": 2.0,
+      "company_gp_eur": 3908389.2394000003,
+      "vs_h1_gp_eur": -4596.330599997658
+    },
+    {
+      "affected_units_decline_pct": 5.0,
+      "company_gp_eur": 3892266.8335000006,
+      "vs_h1_gp_eur": -20718.73649999732
+    },
+    {
+      "affected_units_decline_pct": 10.0,
+      "company_gp_eur": 3865396.1570000006,
+      "vs_h1_gp_eur": -47589.41299999738
+    }
+  ],
+  "assumptions": [
+    "H2 quantities and product/region/channel mix are unchanged in the main scenario.",
+    "Product cost and list prices are unchanged; discount reduction raises selling price.",
+    "Each line is capped at list price; rounding uses whole cents, ties to even.",
+    "Sensitivity applies a uniform quantity reduction only to affected offers.",
+    "No observed treatment, elasticity estimate, causal lift, or realized recovery is claimed."
+  ]
+}

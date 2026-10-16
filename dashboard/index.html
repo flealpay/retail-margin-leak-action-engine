@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Retail Margin Leak &amp; Action Engine</title>
+  <meta name="description" content="A reproducible synthetic retail analysis: explain gross-profit change and prioritize commercial tests.">
+  <link rel="stylesheet" href="style.css">
+  <script src="model.js" defer></script><script src="data.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+  <header class="masthead"><div class="brand"><i></i><i></i><i></i><span>ANALYSIS NOTES / 002</span></div><span class="badge">SYNTHETIC DATA · EUR · 2025</span></header>
+  <main>
+    <section class="intro"><p class="eyebrow">COMMERCIAL DECISION ANALYTICS</p><h1>Retail Margin Leak<br>&amp; Action Engine</h1><p>Where is gross profit changing, which accounting drivers explain it, and what should we investigate or test next?</p><div class="links"><a href="assets/solution.png" target="_blank" rel="noopener">Targeted discount solution ↗</a><a href="assets/analysis.png" target="_blank" rel="noopener">One-page analysis ↗</a></div></section>
+    <section class="filters" aria-label="Analysis scope">
+      <label>Category<select id="category"><option>All</option></select></label>
+      <label>Region<select id="region"><option>All</option><option>North</option><option>Central</option><option>South</option></select></label>
+      <label>Channel<select id="channel"><option>All</option><option>Online</option><option>Store</option></select></label>
+      <button id="reset" class="quiet">Reset scope</button><p>H1 → H2 2025<br><small>Observed totals; not seasonally adjusted</small></p>
+    </section>
+    <section id="kpis" class="kpis" aria-label="Scope financial metrics" aria-live="polite"></section>
+    <section class="panel"><div class="section-heading"><div><p class="eyebrow">01 / EXPLAIN THE CHANGE</p><h2>Gross-profit bridge</h2></div><span id="reconciliation" class="badge"></span></div><p class="muted">An exact five-factor Shapley accounting allocation. Mix means the joint SKU × region × channel unit-share distribution. Each filtered scope has its own reconciled bridge.</p><div id="bridge" class="chart-scroll"></div></section>
+    <section class="panel"><p class="eyebrow">02 / CHECK THE TIMING</p><h2>Monthly gross margin</h2><div id="trend" class="chart-scroll"></div></section>
+    <section class="panel"><div class="section-heading"><div><p class="eyebrow">03 / PRIORITIZE A TEST</p><h2>Commercial action queue</h2></div><div class="scenario"><span id="scenario-total"></span><small>Fixed-volume scenario · selected scope</small></div></div><p class="muted">Each SKU / region / channel has one primary rule-based action. Scenario amounts hold units constant and exclude demand response. They are not forecast recovery or proven promotion uplift.</p>
+      <div class="table-controls"><label>Find a SKU or location<input id="search" type="search" placeholder="e.g. P0123 or South"></label><label>Action<select id="action"><option>All</option><option>MODIFY</option><option>INVESTIGATE</option><option>PROTECT</option><option>SCALE</option><option>STOP</option></select></label><p id="matches" aria-live="polite"></p></div>
+      <div class="table-scroll"><table><thead><tr><th>Product / scope</th><th>Action</th><th>H2 gross margin</th><th>GP change</th><th>Fixed-volume scenario</th><th>Details</th></tr></thead><tbody id="actions"></tbody></table></div><button id="more" class="quiet">Show 25 more</button>
+      <aside id="detail" class="detail" aria-live="polite"><h3>Select an action to inspect its rule and assumptions.</h3></aside>
+    </section>
+    <section class="panel"><p class="eyebrow">04 / INVESTIGATE RELATED PATTERNS</p><h2>Whole-retailer diagnostic signals</h2><p class="muted">These company-wide signals remain unchanged by the scope filters. They are diagnostic associations, not extra bars to add to the profit bridge.</p><div id="diagnostics" class="diagnostics"></div></section>
+    <footer><strong>Controlled synthetic environment, not a real retailer.</strong><p>Gross profit = sales after discounts − modeled product COGS. VAT, returns, fulfilment, marketing and overhead are excluded. Daily stock is a snapshot proxy; lost sales are unmeasured. All amounts and rules are inspectable in the companion project.</p><p>Definitions and primary references: <a href="https://www.ifrs.org/issued-standards/list-of-standards/ias-2-inventories/">IAS 2</a> · <a href="https://www.rand.org/pubs/research_memoranda/RM0670.html">Shapley</a> · <a href="https://www.nber.org/papers/w14315">Product availability</a></p></footer>
+  </main>
+</body>
+</html>
+

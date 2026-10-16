@@ -1,0 +1,51 @@
+{
+  "data_type": "synthetic",
+  "checks": {
+    "five_planted_patterns_detected": true,
+    "all_slice_bridges_reconcile": true,
+    "one_action_per_cell": true,
+    "revenue_up_margin_down": true,
+    "gross_profit_down": true,
+    "some_discounted_positive_controls_protected": true
+  },
+  "all_passed": true,
+  "detections": [
+    {
+      "issue": "discount",
+      "true_products": 40,
+      "flagged_products": 125,
+      "true_positives": 40,
+      "precision": 0.32,
+      "recall": 1.0,
+      "recovered_pattern": true
+    },
+    {
+      "issue": "mix",
+      "category": "Home",
+      "observed_change_pp": -15.888222929651116,
+      "category_local_mix_effect_eur": -219559.98970002387,
+      "recovered_pattern": true
+    },
+    {
+      "issue": "cost",
+      "true_products": 50,
+      "flagged_products": 50,
+      "true_positives": 50,
+      "precision": 1.0,
+      "recall": 1.0,
+      "recovered_pattern": true
+    },
+    {
+      "issue": "availability",
+      "observed_change_pp": -13.932942049517639,
+      "recovered_pattern": true
+    },
+    {
+      "issue": "customer_mix",
+      "observed_change_pp": 16.174880129537563,
+      "recovered_pattern": true
+    }
+  ],
+  "scope": "Planted-pattern recovery, not causal attribution validation.",
+  "note": "Precision/recall use unique SKU IDs across cells. Non-planted flags are not automatically false economic concerns."
+}

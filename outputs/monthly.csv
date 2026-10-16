@@ -1,0 +1,361 @@
+month,category,region,channel,revenue,gp,units
+2025-01,Accessories,Central,Online,16785.24,5595.75,379
+2025-01,Accessories,Central,Store,26141.1,8714.08,599
+2025-01,Accessories,North,Online,16101.93,5529.87,345
+2025-01,Accessories,North,Store,29600.21,10152.89,644
+2025-01,Accessories,South,Online,17795.98,5847.86,408
+2025-01,Accessories,South,Store,25571.4,8712.83,561
+2025-01,Apparel,Central,Online,36063.68,11812.05,491
+2025-01,Apparel,Central,Store,49337.76,16886.0,640
+2025-01,Apparel,North,Online,30052.92,10038.21,398
+2025-01,Apparel,North,Store,55183.51,19164.96,700
+2025-01,Apparel,South,Online,33806.72,11330.66,443
+2025-01,Apparel,South,Store,51488.77,17294.37,679
+2025-01,Electronics,Central,Online,136373.99,47080.49,527
+2025-01,Electronics,Central,Store,218966.45,73995.63,883
+2025-01,Electronics,North,Online,130372.33,44156.96,517
+2025-01,Electronics,North,Store,211639.26,70957.38,866
+2025-01,Electronics,South,Online,138660.88,47187.37,537
+2025-01,Electronics,South,Store,209967.43,72551.09,816
+2025-01,Home,Central,Online,55546.46,20105.18,512
+2025-01,Home,Central,Store,81635.03,30233.8,731
+2025-01,Home,North,Online,48706.59,18046.07,432
+2025-01,Home,North,Store,85928.27,31753.77,768
+2025-01,Home,South,Online,53286.26,19322.26,483
+2025-01,Home,South,Store,85256.93,31670.28,753
+2025-01,Personal Care,Central,Online,16823.25,5533.21,577
+2025-01,Personal Care,Central,Store,22661.82,7788.88,739
+2025-01,Personal Care,North,Online,14315.75,4775.2,477
+2025-01,Personal Care,North,Store,25605.66,8836.08,827
+2025-01,Personal Care,South,Online,15890.42,5334.98,525
+2025-01,Personal Care,South,Store,24323.35,8247.13,806
+2025-02,Accessories,Central,Online,17943.93,6070.58,397
+2025-02,Accessories,Central,Store,23664.77,8018.52,531
+2025-02,Accessories,North,Online,17569.38,5896.26,394
+2025-02,Accessories,North,Store,25755.72,8736.58,573
+2025-02,Accessories,South,Online,17750.7,6020.39,391
+2025-02,Accessories,South,Store,26895.1,9136.34,598
+2025-02,Apparel,Central,Online,31465.22,9918.28,450
+2025-02,Apparel,Central,Store,46175.04,15862.09,593
+2025-02,Apparel,North,Online,32589.63,10947.81,427
+2025-02,Apparel,North,Store,48611.7,16209.48,655
+2025-02,Apparel,South,Online,31754.59,10488.57,424
+2025-02,Apparel,South,Store,48048.43,16319.9,627
+2025-02,Electronics,Central,Online,141213.45,47024.92,573
+2025-02,Electronics,Central,Store,199461.55,67954.34,794
+2025-02,Electronics,North,Online,144132.74,48471.69,576
+2025-02,Electronics,North,Store,196873.42,67782.44,773
+2025-02,Electronics,South,Online,134066.14,44427.08,555
+2025-02,Electronics,South,Store,214493.12,73521.48,843
+2025-02,Home,Central,Online,58608.26,21695.9,515
+2025-02,Home,Central,Store,73963.12,27398.52,658
+2025-02,Home,North,Online,59273.81,21754.16,528
+2025-02,Home,North,Store,76908.87,28753.29,678
+2025-02,Home,South,Online,58561.89,21449.6,527
+2025-02,Home,South,Store,74706.65,27492.12,670
+2025-02,Personal Care,Central,Online,15639.48,5203.55,526
+2025-02,Personal Care,Central,Store,22417.12,7628.89,733
+2025-02,Personal Care,North,Online,15502.54,5092.29,527
+2025-02,Personal Care,North,Store,22911.11,7718.59,761
+2025-02,Personal Care,South,Online,15286.09,5200.83,498
+2025-02,Personal Care,South,Store,23162.18,7917.12,758
+2025-03,Accessories,Central,Online,16601.15,5633.43,368
+2025-03,Accessories,Central,Store,24185.12,7843.97,542
+2025-03,Accessories,North,Online,16307.58,5489.06,369
+2025-03,Accessories,North,Store,24084.93,7719.18,548
+2025-03,Accessories,South,Online,15568.86,5081.57,367
+2025-03,Accessories,South,Store,25824.71,8286.81,584
+2025-03,Apparel,Central,Online,42271.08,14616.0,537
+2025-03,Apparel,Central,Store,59562.79,19305.02,784
+2025-03,Apparel,North,Online,45470.84,15549.96,589
+2025-03,Apparel,North,Store,63145.01,20012.46,851
+2025-03,Apparel,South,Online,37696.2,12841.41,493
+2025-03,Apparel,South,Store,62515.44,19897.4,845
+2025-03,Electronics,Central,Online,134163.86,46974.49,510
+2025-03,Electronics,Central,Store,185642.9,58798.3,767
+2025-03,Electronics,North,Online,149219.68,51995.09,568
+2025-03,Electronics,North,Store,197651.89,62938.96,819
+2025-03,Electronics,South,Online,128424.62,44420.53,498
+2025-03,Electronics,South,Store,200592.66,64428.86,816
+2025-03,Home,Central,Online,54130.16,19982.98,489
+2025-03,Home,Central,Store,78330.94,27602.42,716
+2025-03,Home,North,Online,53360.45,20029.38,466
+2025-03,Home,North,Store,77472.52,27115.24,712
+2025-03,Home,South,Online,52395.96,19403.62,473
+2025-03,Home,South,Store,74674.39,26338.72,684
+2025-03,Personal Care,Central,Online,16088.93,5400.52,543
+2025-03,Personal Care,Central,Store,21238.52,6762.32,716
+2025-03,Personal Care,North,Online,13368.66,4436.58,455
+2025-03,Personal Care,North,Store,23048.19,7357.47,770
+2025-03,Personal Care,South,Online,15380.51,5107.71,529
+2025-03,Personal Care,South,Store,22693.14,7190.54,777
+2025-04,Accessories,Central,Online,16372.85,5540.75,368
+2025-04,Accessories,Central,Store,26913.23,8658.61,605
+2025-04,Accessories,North,Online,16922.77,5896.95,360
+2025-04,Accessories,North,Store,26271.18,8437.87,596
+2025-04,Accessories,South,Online,17836.01,6094.01,394
+2025-04,Accessories,South,Store,26919.68,8454.48,620
+2025-04,Apparel,Central,Online,39678.97,13310.14,531
+2025-04,Apparel,Central,Store,60897.14,18818.2,861
+2025-04,Apparel,North,Online,44564.37,15215.9,577
+2025-04,Apparel,North,Store,65632.3,20577.87,911
+2025-04,Apparel,South,Online,44399.54,15217.38,574
+2025-04,Apparel,South,Store,62995.75,19924.84,862
+2025-04,Electronics,Central,Online,131292.35,45099.03,517
+2025-04,Electronics,Central,Store,209627.2,67406.34,854
+2025-04,Electronics,North,Online,136724.88,46826.12,539
+2025-04,Electronics,North,Store,215708.77,67846.66,903
+2025-04,Electronics,South,Online,156101.83,55045.43,585
+2025-04,Electronics,South,Store,195548.06,61943.57,814
+2025-04,Home,Central,Online,55973.32,21072.86,479
+2025-04,Home,Central,Store,84359.33,29798.76,763
+2025-04,Home,North,Online,52280.39,19321.27,470
+2025-04,Home,North,Store,79780.22,28004.29,728
+2025-04,Home,South,Online,55579.55,20819.21,485
+2025-04,Home,South,Store,81566.47,29206.09,720
+2025-04,Personal Care,Central,Online,15943.5,5393.85,531
+2025-04,Personal Care,Central,Store,23677.07,7409.89,819
+2025-04,Personal Care,North,Online,14501.87,4852.91,488
+2025-04,Personal Care,North,Store,23606.18,7353.04,827
+2025-04,Personal Care,South,Online,15239.4,5144.28,506
+2025-04,Personal Care,South,Store,22421.0,6962.19,781
+2025-05,Accessories,Central,Online,16406.41,4992.72,388
+2025-05,Accessories,Central,Store,26465.02,8347.15,603
+2025-05,Accessories,North,Online,17956.7,5426.84,428
+2025-05,Accessories,North,Store,28139.85,8666.84,653
+2025-05,Accessories,South,Online,16931.54,5151.0,405
+2025-05,Accessories,South,Store,25195.0,7816.26,573
+2025-05,Apparel,Central,Online,35150.47,11078.2,468
+2025-05,Apparel,Central,Store,46799.53,14397.86,643
+2025-05,Apparel,North,Online,33758.6,10679.19,448
+2025-05,Apparel,North,Store,50808.36,15501.13,708
+2025-05,Apparel,South,Online,29109.36,8674.16,414
+2025-05,Apparel,South,Store,46587.08,14474.35,643
+2025-05,Electronics,Central,Online,147610.01,46996.25,596
+2025-05,Electronics,Central,Store,188898.58,58201.63,789
+2025-05,Electronics,North,Online,130939.6,41069.64,538
+2025-05,Electronics,North,Store,225069.36,71274.56,922
+2025-05,Electronics,South,Online,144942.65,46338.31,586
+2025-05,Electronics,South,Store,204352.02,63420.21,845
+2025-05,Home,Central,Online,55069.08,18945.22,510
+2025-05,Home,Central,Store,72585.36,25026.47,681
+2025-05,Home,North,Online,59340.41,20673.92,548
+2025-05,Home,North,Store,87158.65,29594.9,822
+2025-05,Home,South,Online,52455.01,18120.42,487
+2025-05,Home,South,Store,83499.41,28705.23,774
+2025-05,Personal Care,Central,Online,15004.11,4569.81,525
+2025-05,Personal Care,Central,Store,24644.84,7759.03,822
+2025-05,Personal Care,North,Online,16020.12,5100.33,530
+2025-05,Personal Care,North,Store,25291.66,7721.09,881
+2025-05,Personal Care,South,Online,16023.61,4935.22,552
+2025-05,Personal Care,South,Store,22574.58,6994.4,769
+2025-06,Accessories,Central,Online,18113.18,5732.58,415
+2025-06,Accessories,Central,Store,27389.88,8743.11,608
+2025-06,Accessories,North,Online,21525.79,6676.25,500
+2025-06,Accessories,North,Store,26699.2,8311.5,614
+2025-06,Accessories,South,Online,17638.6,5371.14,417
+2025-06,Accessories,South,Store,24413.97,7383.73,583
+2025-06,Apparel,Central,Online,33402.12,10347.36,460
+2025-06,Apparel,Central,Store,49028.28,15804.01,644
+2025-06,Apparel,North,Online,35618.89,10661.91,506
+2025-06,Apparel,North,Store,52465.49,16335.2,713
+2025-06,Apparel,South,Online,34472.46,10983.68,448
+2025-06,Apparel,South,Store,42703.65,12602.16,622
+2025-06,Electronics,Central,Online,151361.77,46649.18,636
+2025-06,Electronics,Central,Store,195255.51,59001.19,839
+2025-06,Electronics,North,Online,149487.91,46170.58,627
+2025-06,Electronics,North,Store,210405.44,64563.5,890
+2025-06,Electronics,South,Online,140754.49,43928.92,590
+2025-06,Electronics,South,Store,219815.15,69315.46,894
+2025-06,Home,Central,Online,61884.04,21619.69,558
+2025-06,Home,Central,Store,79165.6,27335.44,731
+2025-06,Home,North,Online,61459.29,21090.12,576
+2025-06,Home,North,Store,83790.55,28725.65,768
+2025-06,Home,South,Online,57584.55,20009.22,516
+2025-06,Home,South,Store,70342.26,23801.05,664
+2025-06,Personal Care,Central,Online,17345.55,5496.65,581
+2025-06,Personal Care,Central,Store,24283.1,7297.01,875
+2025-06,Personal Care,North,Online,19263.61,6111.92,638
+2025-06,Personal Care,North,Store,24374.52,7591.84,834
+2025-06,Personal Care,South,Online,14971.35,4550.33,527
+2025-06,Personal Care,South,Store,23000.16,7143.16,792
+2025-07,Accessories,Central,Online,25279.51,8654.17,551
+2025-07,Accessories,Central,Store,20815.4,7333.58,445
+2025-07,Accessories,North,Online,26030.2,8619.58,597
+2025-07,Accessories,North,Store,23405.84,8088.63,512
+2025-07,Accessories,South,Online,23973.29,8043.44,538
+2025-07,Accessories,South,Store,20146.13,6925.28,449
+2025-07,Apparel,Central,Online,46113.73,16033.33,580
+2025-07,Apparel,Central,Store,36841.06,12858.78,476
+2025-07,Apparel,North,Online,47745.35,16527.26,599
+2025-07,Apparel,North,Store,43390.36,15048.79,558
+2025-07,Apparel,South,Online,49588.89,16992.86,630
+2025-07,Apparel,South,Store,38393.19,13334.75,498
+2025-07,Electronics,Central,Online,192306.88,65656.9,768
+2025-07,Electronics,Central,Store,161469.22,57172.36,614
+2025-07,Electronics,North,Online,213307.68,74327.58,819
+2025-07,Electronics,North,Store,177375.52,62626.22,684
+2025-07,Electronics,South,Online,220693.87,78484.71,821
+2025-07,Electronics,South,Store,146100.12,51972.29,559
+2025-07,Home,Central,Online,68970.33,23788.78,703
+2025-07,Home,Central,Store,53370.19,18636.55,549
+2025-07,Home,North,Online,65685.27,22415.89,684
+2025-07,Home,North,Store,57072.11,19766.41,599
+2025-07,Home,South,Online,66350.56,22655.83,688
+2025-07,Home,South,Store,46626.68,15944.9,502
+2025-07,Personal Care,Central,Online,22033.0,6796.36,703
+2025-07,Personal Care,Central,Store,19163.13,6087.59,593
+2025-07,Personal Care,North,Online,23198.57,6993.29,776
+2025-07,Personal Care,North,Store,18861.27,5890.69,609
+2025-07,Personal Care,South,Online,22513.15,6914.04,716
+2025-07,Personal Care,South,Store,18515.69,5930.48,577
+2025-08,Accessories,Central,Online,23840.76,8050.36,530
+2025-08,Accessories,Central,Store,22477.59,8017.51,472
+2025-08,Accessories,North,Online,28036.0,9693.32,603
+2025-08,Accessories,North,Store,16653.07,5869.45,357
+2025-08,Accessories,South,Online,24506.11,8563.65,520
+2025-08,Accessories,South,Store,18638.67,6502.19,404
+2025-08,Apparel,Central,Online,46991.1,16094.23,605
+2025-08,Apparel,Central,Store,35701.76,12219.83,474
+2025-08,Apparel,North,Online,47786.27,16249.17,621
+2025-08,Apparel,North,Store,35780.81,12520.31,457
+2025-08,Apparel,South,Online,43380.26,14567.73,569
+2025-08,Apparel,South,Store,36543.72,12856.82,466
+2025-08,Electronics,Central,Online,194391.58,66545.16,772
+2025-08,Electronics,Central,Store,162465.24,56619.9,641
+2025-08,Electronics,North,Online,223471.41,77529.07,867
+2025-08,Electronics,North,Store,168405.78,60071.57,641
+2025-08,Electronics,South,Online,178399.17,59917.94,725
+2025-08,Electronics,South,Store,151134.06,52801.47,600
+2025-08,Home,Central,Online,62175.91,21273.61,646
+2025-08,Home,Central,Store,53802.05,19106.88,544
+2025-08,Home,North,Online,66852.3,23151.88,682
+2025-08,Home,North,Store,53979.03,19197.59,542
+2025-08,Home,South,Online,66089.96,22645.78,684
+2025-08,Home,South,Store,48647.5,16707.31,520
+2025-08,Personal Care,Central,Online,21289.49,6507.22,694
+2025-08,Personal Care,Central,Store,19718.76,6152.87,639
+2025-08,Personal Care,North,Online,22571.54,6896.4,739
+2025-08,Personal Care,North,Store,18229.45,5669.86,589
+2025-08,Personal Care,South,Online,22859.82,7111.76,727
+2025-08,Personal Care,South,Store,18911.79,5823.3,629
+2025-09,Accessories,Central,Online,26234.09,7803.24,585
+2025-09,Accessories,Central,Store,19939.29,6167.64,451
+2025-09,Accessories,North,Online,26511.23,8177.27,574
+2025-09,Accessories,North,Store,20524.39,6360.94,460
+2025-09,Accessories,South,Online,28040.51,8268.25,633
+2025-09,Accessories,South,Store,18914.84,5873.71,411
+2025-09,Apparel,Central,Online,58821.21,17754.23,795
+2025-09,Apparel,Central,Store,43036.56,13433.18,588
+2025-09,Apparel,North,Online,53845.48,15899.94,753
+2025-09,Apparel,North,Store,50995.1,16241.77,678
+2025-09,Apparel,South,Online,56358.84,16533.08,792
+2025-09,Apparel,South,Store,41998.9,13117.08,578
+2025-09,Electronics,Central,Online,184641.35,49783.98,783
+2025-09,Electronics,Central,Store,159422.77,45920.24,655
+2025-09,Electronics,North,Online,181750.19,47268.07,794
+2025-09,Electronics,North,Store,143130.01,37303.73,653
+2025-09,Electronics,South,Online,189266.55,51910.19,803
+2025-09,Electronics,South,Store,141585.91,39518.49,609
+2025-09,Home,Central,Online,63841.42,19689.23,692
+2025-09,Home,Central,Store,49700.33,15592.18,559
+2025-09,Home,North,Online,65262.9,19688.84,727
+2025-09,Home,North,Store,55100.53,17334.51,603
+2025-09,Home,South,Online,65957.1,20265.27,721
+2025-09,Home,South,Store,45026.94,14047.16,507
+2025-09,Personal Care,Central,Online,21056.8,5563.12,730
+2025-09,Personal Care,Central,Store,19221.54,5385.59,645
+2025-09,Personal Care,North,Online,22101.14,5941.01,751
+2025-09,Personal Care,North,Store,18249.82,5037.2,629
+2025-09,Personal Care,South,Online,20844.84,5560.53,710
+2025-09,Personal Care,South,Store,17258.19,4827.44,584
+2025-10,Accessories,Central,Online,22580.98,6615.56,521
+2025-10,Accessories,Central,Store,20737.87,6827.99,435
+2025-10,Accessories,North,Online,22606.93,6810.45,508
+2025-10,Accessories,North,Store,17168.98,5269.99,387
+2025-10,Accessories,South,Online,24842.02,7421.5,554
+2025-10,Accessories,South,Store,19646.08,6121.97,437
+2025-10,Apparel,Central,Online,57959.85,17450.88,789
+2025-10,Apparel,Central,Store,41475.46,13219.02,546
+2025-10,Apparel,North,Online,58118.63,17439.13,797
+2025-10,Apparel,North,Store,47105.6,14949.48,632
+2025-10,Apparel,South,Online,54523.19,16113.87,771
+2025-10,Apparel,South,Store,45168.13,14250.04,617
+2025-10,Electronics,Central,Online,169136.12,45105.73,727
+2025-10,Electronics,Central,Store,141475.8,39470.93,614
+2025-10,Electronics,North,Online,184280.86,49674.21,784
+2025-10,Electronics,North,Store,147601.26,42336.48,618
+2025-10,Electronics,South,Online,178710.92,46674.55,796
+2025-10,Electronics,South,Store,135296.44,37362.62,593
+2025-10,Home,Central,Online,65062.7,20006.97,711
+2025-10,Home,Central,Store,46001.37,14367.33,504
+2025-10,Home,North,Online,62004.61,18678.89,697
+2025-10,Home,North,Store,48505.76,15063.17,546
+2025-10,Home,South,Online,60215.79,17901.52,674
+2025-10,Home,South,Store,49391.36,15700.5,538
+2025-10,Personal Care,Central,Online,18946.96,4875.77,669
+2025-10,Personal Care,Central,Store,18212.32,5415.22,586
+2025-10,Personal Care,North,Online,20900.12,5294.32,748
+2025-10,Personal Care,North,Store,18178.19,5230.1,612
+2025-10,Personal Care,South,Online,21156.66,5509.16,739
+2025-10,Personal Care,South,Store,17351.98,4804.16,590
+2025-11,Accessories,Central,Online,23489.97,7044.99,520
+2025-11,Accessories,Central,Store,20258.29,6381.83,432
+2025-11,Accessories,North,Online,27871.23,8397.72,615
+2025-11,Accessories,North,Store,21478.56,6560.8,485
+2025-11,Accessories,South,Online,22301.85,6828.14,506
+2025-11,Accessories,South,Store,17635.54,5411.79,388
+2025-11,Apparel,Central,Online,45165.21,13816.93,607
+2025-11,Apparel,Central,Store,36079.4,11363.01,470
+2025-11,Apparel,North,Online,46673.63,14096.8,649
+2025-11,Apparel,North,Store,36559.24,11228.46,505
+2025-11,Apparel,South,Online,47436.55,15340.16,605
+2025-11,Apparel,South,Store,35189.81,11030.97,473
+2025-11,Electronics,Central,Online,282233.82,78191.26,1218
+2025-11,Electronics,Central,Store,225311.35,61810.0,982
+2025-11,Electronics,North,Online,303428.66,83361.91,1305
+2025-11,Electronics,North,Store,258329.24,71937.47,1098
+2025-11,Electronics,South,Online,275119.32,72832.07,1230
+2025-11,Electronics,South,Store,237027.19,65755.37,1021
+2025-11,Home,Central,Online,59812.69,17963.53,674
+2025-11,Home,Central,Store,48983.79,15570.98,523
+2025-11,Home,North,Online,60549.19,18762.37,660
+2025-11,Home,North,Store,46989.04,14708.3,519
+2025-11,Home,South,Online,58161.26,18255.17,631
+2025-11,Home,South,Store,53508.86,16985.23,575
+2025-11,Personal Care,Central,Online,20245.2,5476.28,695
+2025-11,Personal Care,Central,Store,17932.89,5028.07,591
+2025-11,Personal Care,North,Online,21683.82,5787.04,765
+2025-11,Personal Care,North,Store,19148.18,5180.99,659
+2025-11,Personal Care,South,Online,21661.03,5859.64,741
+2025-11,Personal Care,South,Store,16339.06,4658.8,537
+2025-12,Accessories,Central,Online,23349.64,7257.06,502
+2025-12,Accessories,Central,Store,17920.89,5278.86,418
+2025-12,Accessories,North,Online,27195.99,8320.18,608
+2025-12,Accessories,North,Store,21549.86,6782.99,467
+2025-12,Accessories,South,Online,23434.72,6977.13,536
+2025-12,Accessories,South,Store,20296.84,6123.64,464
+2025-12,Apparel,Central,Online,42326.99,12901.46,577
+2025-12,Apparel,Central,Store,34054.8,10787.57,453
+2025-12,Apparel,North,Online,49096.76,15186.32,658
+2025-12,Apparel,North,Store,42258.57,13280.92,568
+2025-12,Apparel,South,Online,40855.22,12579.16,548
+2025-12,Apparel,South,Store,36912.26,11785.52,494
+2025-12,Electronics,Central,Online,284249.34,76601.64,1261
+2025-12,Electronics,Central,Store,236586.76,65755.49,1017
+2025-12,Electronics,North,Online,301887.83,82485.2,1301
+2025-12,Electronics,North,Store,254119.2,67963.39,1131
+2025-12,Electronics,South,Online,284862.64,79054.65,1204
+2025-12,Electronics,South,Store,244320.04,66302.13,1074
+2025-12,Home,Central,Online,63284.96,19464.05,684
+2025-12,Home,Central,Store,49134.77,15899.33,509
+2025-12,Home,North,Online,60685.21,18147.25,698
+2025-12,Home,North,Store,59367.6,19246.46,612
+2025-12,Home,South,Online,55929.23,17046.0,621
+2025-12,Home,South,Store,51565.83,16398.54,553
+2025-12,Personal Care,Central,Online,20864.32,5625.45,703
+2025-12,Personal Care,Central,Store,16986.34,4605.11,589
+2025-12,Personal Care,North,Online,22726.21,6149.43,775
+2025-12,Personal Care,North,Store,19017.04,5118.4,671
+2025-12,Personal Care,South,Online,19591.1,5126.82,684
+2025-12,Personal Care,South,Store,18845.12,5335.9,627

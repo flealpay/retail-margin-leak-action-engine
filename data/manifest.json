@@ -1,0 +1,38 @@
+{
+  "data_type": "synthetic",
+  "seed": 42,
+  "currency": "EUR",
+  "period": [
+    "2025-01-01",
+    "2025-12-31"
+  ],
+  "sales_lines": 180000,
+  "orders": 60000,
+  "products": 500,
+  "customers": 20000,
+  "inventory_rows": 547500,
+  "cost_events": 1000,
+  "promotions": 35,
+  "monthly_order_weights": [
+    0.95,
+    0.95,
+    1,
+    1,
+    1.02,
+    1.03,
+    0.987,
+    0.987,
+    1.0152,
+    1.0152,
+    1.128,
+    1.1656
+  ],
+  "sha256": {
+    "dim_customer.csv": "170542de04f0c0ff77685d0546b15c1fcc46910bf7a0fb9e1495094e6d53aa8a",
+    "dim_product.csv": "e453c82e7a4ffc233907ce6d46bc016d88057452d520fa705e1a11d1552a0ebd",
+    "dim_promotion.csv": "280b556705489bf75ab1d3db5a3231913ce6e7ba3289cbfe5ce989819b029001",
+    "fact_cost_history.csv": "c5c32b35d0162868bafbc07f9923f59fa53b3a84b899d60e2cbd0884ddf6cd1e",
+    "fact_inventory_daily.csv": "b345229f70d8020298f88e8c5292d58616d38b6020be53f6139199f6245270ee",
+    "fact_sales.csv": "a71b0ad374ac3f64e7e246de0fd416b669bbfbe9b7e9a3900ab54831ab540f2b"
+  }
+}

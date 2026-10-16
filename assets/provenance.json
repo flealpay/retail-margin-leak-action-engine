@@ -1,0 +1,13 @@
+{
+  "tool": "built-in ImageGen",
+  "asset": "retail-margin-solution.png",
+  "sha256": "8c180fd41a68e8a573ee5a9a5cce42105e91b66af2b259593923f5df5f0d3fe7",
+  "prompt": "../docs/visual-generation.md",
+  "numerical_sources": [
+    "../outputs/report.json",
+    "../outputs/discount-solution.json"
+  ],
+  "data_type": "synthetic",
+  "seed": 42,
+  "note": "Retained illustration; regenerate or review after changes to scenario figures."
+}
